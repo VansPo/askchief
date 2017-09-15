@@ -1,0 +1,17 @@
+{
+  "name": "askchief",
+  "version": "1.0.0",
+  "description": "Telegram AskChief bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vans",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "superagent": "^3.6.0",
+    "superagent-use": "^0.1.0",
+    "telebot": "^1.2.3"
+  }
+}
